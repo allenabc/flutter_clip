@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("Image from assets"),
         ),
-        body: Image.asset('assets/images/lake.jpg'), //   <-- image
+        body: Image.asset('assets/images/woman4.jpg'), //   <-- image
       ),
     );
   }
