@@ -1,4 +1,4 @@
-# animation_guide
+# Clipping images in Flutter
 
 A new Flutter project.
 
