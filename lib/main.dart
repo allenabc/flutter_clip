@@ -32,6 +32,7 @@ Widget myLayoutWidget() {
 /*
 ClipContext()
 ClipOval
+
 ClipPath
 ClipRect
 ClipRRect
