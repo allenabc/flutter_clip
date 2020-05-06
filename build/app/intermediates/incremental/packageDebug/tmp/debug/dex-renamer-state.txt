@@ -1,4 +1,4 @@
-#Sun May 03 15:17:15 MST 2020
-base.0=/home/allen/AndroidStudioProjects/animation_guide/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Sun May 03 20:35:38 MST 2020
+base.0=/home/allen/AndroidStudioProjects/flutter_clip/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
